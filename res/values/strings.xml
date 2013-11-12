@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HS Swengi</string>
+    <string name="loading_data">loading Data</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vertical_articles">VerticalArticlesActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
